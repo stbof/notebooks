@@ -1,4 +1,9 @@
 # Databricks notebook source
+# MAGIC %md 
+# MAGIC # DBUtils Demo Notebook
+
+# COMMAND ----------
+
 dbutils.help()
 
 # COMMAND ----------
