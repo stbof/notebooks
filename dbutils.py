@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md 
-# MAGIC # DBUtils Demo Notebook
+# MAGIC # DBUtils Notebook
 
 # COMMAND ----------
 
